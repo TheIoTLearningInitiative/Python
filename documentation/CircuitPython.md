@@ -4,5 +4,3 @@
 
 - [CircuitPython Youtube Episodes](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXWHQhEVEI5Jqf18TQRr5H)
 
-
-
